@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abhishek Mishra</h1>
 <h3 align="center">I am a problem solver with variety of skill set</h3>
 
-- 🤓 Ex Intern at MNC and Banking finance  
 - 🔭 I’m currently working on **writing unbreakable code**
 - 🌱 I’m currently learning **AWS, Machine Learning, GenAI, Frontend**
 - 👨‍💻 All of my projects are available at [https://github.com/abhishek0513](https://github.com/abhishek0513)
